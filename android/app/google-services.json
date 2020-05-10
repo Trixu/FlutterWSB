@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413736041559",
+    "firebase_url": "https://zajeciawsb-94e57.firebaseio.com",
+    "project_id": "zajeciawsb-94e57",
+    "storage_bucket": "zajeciawsb-94e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413736041559:android:8f85ee8f39fe4d77f0b712",
+        "android_client_info": {
+          "package_name": "com.example.flutterwsb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413736041559-dij7fjqafmg5m2kuhm7jlum57sjf2dhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterwsb",
+            "certificate_hash": "f42af99496a32e0cfc02f6cc4345094a7fb55454"
+          }
+        },
+        {
+          "client_id": "413736041559-t8ri200137adc3j6kuih0in1b8m8nida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dkKYdAc_VBVoxa2S8jk8b8m8B0HlM80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413736041559-t8ri200137adc3j6kuih0in1b8m8nida.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
